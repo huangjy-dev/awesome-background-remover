@@ -63,6 +63,22 @@ AI photo editing platform with background remover designed for e-commerce seller
 
 ---
 
+### TinyTools BG Remover
+
+https://tinytools-smoky.vercel.app/
+
+Free, browser-based AI background remover that runs **entirely locally in the browser** — your images never leave your device. No signup, no upload to a server.
+
+Features:
+
+* AI-powered automatic background removal
+* Runs 100% in-browser (privacy-friendly)
+* No signup, no upload, no API key
+* Free and open source
+* Part of TinyTools, a suite of free single-purpose web utilities
+
+---
+
 ## Open Source Background Remover
 
 ### BackgroundMattingV2
