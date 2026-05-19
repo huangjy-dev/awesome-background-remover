@@ -63,6 +63,14 @@ AI photo editing platform with background remover designed for e-commerce seller
 
 ---
 
+### ClearCrowds
+
+https://clearcrowds.com
+
+AI photo cleanup and editing tool for removing crowds, unwanted objects, clutter, glasses, and other distractions from images.
+
+---
+
 ## Open Source Background Remover
 
 ### BackgroundMattingV2
