@@ -55,6 +55,14 @@ Background removal tool that combines AI with manual editing tools.
 
 ---
 
+### ImagineClip
+
+https://imagineclip.com/background-remover
+
+Browser-based AI background removal for creating transparent images and cleaner visual assets.
+
+---
+
 ### PhotoRoom
 
 https://www.photoroom.com
