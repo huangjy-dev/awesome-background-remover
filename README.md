@@ -128,3 +128,11 @@ This list includes tools for:
 ## License
 
 MIT License
+
+---
+
+### RemoveColor
+
+https://removecolor.online
+
+Free browser-based tool for color-key removal: click the specific color you want gone (green screens, solid backgrounds, old brand colors) and export a transparent PNG. Runs locally in the browser — images never leave your device.
