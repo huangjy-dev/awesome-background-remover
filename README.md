@@ -63,6 +63,14 @@ AI photo editing platform with background remover designed for e-commerce seller
 
 ---
 
+### RemoveFree
+
+https://removefree.app
+
+Free browser-local AI background remover (hosted web app, no signup) that exports original-resolution transparent PNG/WebP and Batch ZIP directly via WebGPU/WASM without uploading images.
+
+---
+
 ## Open Source Background Remover
 
 ### BackgroundMattingV2
